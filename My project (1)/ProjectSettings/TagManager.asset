@@ -9,6 +9,7 @@ TagManager:
   - button
   - Resume
   - PauseMenu
+  - Player Health bar
   layers:
   - Default
   - TransparentFX
